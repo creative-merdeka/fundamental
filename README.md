@@ -1,3 +1,3 @@
 # fundamental
-# arti .md markdown
+# markdown
 lancrotkan
